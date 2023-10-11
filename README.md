@@ -2,7 +2,8 @@
 
 This is an official repository for "A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains", NeurIPS23. 
 
-[Paper Link](https://drive.google.com/file/d/1PfFPg3AwdL7IIUCSwuYoXW8L7UELxwN5/view?usp=drive_link)
+[[Paper Preprint]](https://drive.google.com/file/d/1PfFPg3AwdL7IIUCSwuYoXW8L7UELxwN5/view?usp=drive_link) 
+[[NeurIPS23 Poster]](https://neurips.cc/virtual/2023/poster/72233)
 
 
 ## Project Overview
@@ -63,4 +64,7 @@ Utilizing the features extracted from our model, we predicted fMRI activities an
 Figure 4. Model-to-Human Visual Cortex Comparison.
 </p>
 
+
+## To-Do
+- Codes and Model parameters will be uploaded soon.
 
