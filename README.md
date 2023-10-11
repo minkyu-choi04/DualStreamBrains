@@ -78,9 +78,12 @@ Figure 4. Model-to-Human Visual Cortex Comparison.
 
 Figure 4(a) presents the cortical voxels colored by the explainability from the features of WhereCNN (warm-tone), WhatCNN (cool-tone). Warm colored voxels are better predicted by the features from WhereCNN, which is trained for saliency prediction, while the cool colored voxels are better predicted by the features from WhatCNN, which is trained for object recognition. 
 
-In Figure 4, there are two notable patterns. 
+In Figure 4(a), there are two notable patterns. 
 1. WhereCNN better explains the pheriphery, while WhatCNN better exaplains fovea.
 2. The dorsal visual stream is better explained by WhereCNN, while the ventral stream is for WhatCNN. 
+
+In Figure 4(b), the explainability of the regions of interests from the ventral or dorsal visual stream are quantitatively measured. As can be seen in the graph, the ventral ROIs are better explained by the features of WhatCNN, and the dorsal ROIs are better explained by the features of WhereCNN. 
+
 
 ## To-Do
 - Codes and Model parameters will be uploaded soon.
