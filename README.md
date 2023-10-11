@@ -18,8 +18,8 @@ Our research introduces a novel two-stream deep neural network that models the h
 
 ### Implications
 By building an accurate model of both the ventral and dorsal visual streams, 
-- We have better understandings of our brains.
-- Improvde machine learning models to better process brain signals. 
+- [Neuroscience] We have better understandings of our brains.
+- [Machine Learning] Improvde machine learning models to better process brain signals. 
 
 <p align="center">
     <img src="figures/overview3-1.png" width= "600">
