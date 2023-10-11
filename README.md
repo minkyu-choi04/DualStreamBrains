@@ -69,6 +69,11 @@ Figure 3. Examples of input stimuli given to the model (left), and visual salien
 ## fMRI Activity Prediction
 Utilizing the features extracted from our model, we predicted fMRI activities and demonstrated a significant alignment between the WhereCNN and WhatCNN with the human dorsal and ventral visual streams, respectively.
 
+To measure alignment between the WhereCNN / WhatCNN to dorsal / ventral visual streams, we used fMRI data collected from human subjects during movie watching. The same movie is given to our model, and the features for each movie frame are collected. Based on the model features, we tried to predict voxel activities from human data. 
+
+Model features (either from WhereCNN or WhatCNN) --> Prediction --> fMRI voxel activity (dorsal or ventral visual streams)
+
+
 <p align="center">
     <img src="figures/figure3_camReady-1.png" width= "600">
 </p>
