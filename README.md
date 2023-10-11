@@ -89,6 +89,7 @@ In Figure 4(a), there are two notable patterns.
 
 In Figure 4(b), the explainability of the regions of interests from the ventral or dorsal visual stream are quantitatively measured. As can be seen in the graph, the ventral ROIs are better explained by the features of WhatCNN, and the dorsal ROIs are better explained by the features of WhereCNN. 
 
+If we think about the functions of the two visual streams in our brain (dorsal stream for visual attention, ventral stream for object recognition), design a two-streamed deep neural network with distinct functions (saliency prediction and object recognition) improves the prediction performance of the brain signals. 
 
 ## To-Do
 - Codes and Model parameters will be uploaded soon.
