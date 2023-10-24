@@ -2,9 +2,8 @@
 
 This is an official repository for "**A Dual-Stream Neural Network Explains the Functional Segregation of Dorsal and Ventral Visual Pathways in Human Brains**", NeurIPS-23. 
 
-[[Paper Preprint (GoogleDrive)]](https://drive.google.com/file/d/1PfFPg3AwdL7IIUCSwuYoXW8L7UELxwN5/view?usp=drive_link) 
-[[Paper Preprint (Github)]](/Neurips_2023_Minkyu_git.pdf)
-[[NeurIPS-23 Poster]](https://neurips.cc/virtual/2023/poster/72233)
+[[Paper Preprint]](https://arxiv.org/pdf/2310.13849.pdf) 
+[[NeurIPS-23 Poster (in preparation)]](https://neurips.cc/virtual/2023/poster/72233)
 
 
 ## Project Overview
