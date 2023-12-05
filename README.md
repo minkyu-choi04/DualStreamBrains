@@ -18,8 +18,8 @@ Our research introduces a novel two-stream deep neural network that models the h
 
 ### Implications
 By building an accurate model of both the ventral and dorsal visual streams, 
-- [Neuroscience] We have better understandings of our brains.
-- [Machine Learning] Improvde machine learning models to better process brain signals. 
+- [Neuroscience] We have better understandings of our brains' visual cortex.
+- [Machine Learning] Improvde machine learning models to better process/predict brain signals for neural interface and AR/VR applications. 
 
 <p align="center">
     <img src="figures/overview3-1.png" width= "600">
@@ -90,6 +90,28 @@ In Figure 4(b), the explainability of the regions of interests from the ventral 
 
 If we think about the functions of the two visual streams in our brain (dorsal stream for visual attention, ventral stream for object recognition), design a two-streamed deep neural network with distinct functions (saliency prediction and object recognition) improves the prediction performance of the brain signals. 
 
+
+## Usage
+### Install
+```
+pip install -r requirements.txt
+```
+
+### Run Demo
+This repository includes example inputs to the model. You can simply run the code by first downloading our pretrained weights in the repository (In preparation). 
+And the following command will give you the output attention from our model in `./plots`. 
+```
+python train.py
+```
+The expected outputs are included in the repository in `./plots`, and below is an example output. 
+
+<p align="center">
+    <img src="plots/output1.png" width= "700">
+</p>
+<p align="center">
+Figure 5. Example output from our code. Left: input image, Middle: fixation point made, Right: Saliency map.
+</p>
+
 ## To-Do
-- Codes and Model parameters will be uploaded soon.
+- Pretrained model parameters will be uploaded soon.
 
