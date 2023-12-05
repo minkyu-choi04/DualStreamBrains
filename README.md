@@ -50,6 +50,8 @@ Upon determining a fixation point, the WhereCNN directs the '**virtual eyes**', 
 Figure 2. Input stimuli examples provided to the model (left) and the model-generated visual saliency maps (right).
 </p>
 
+See `retinal_sampling_examples.ipynb` for demo. 
+
 
 
 ## Visual Attention Generation
