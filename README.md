@@ -100,7 +100,7 @@ pip install -r requirements.txt
 ```
 
 ### Run Demo
-This repository includes example inputs to the model. You can simply run the code by first downloading our pretrained weights in the repository (In preparation). 
+This repository includes example inputs to the model. You can simply run the code by first downloading our pretrained weights in the repository from [here](https://drive.google.com/drive/folders/19TDhEuKyAS1ednElUuMtsBD0aa_gcvXg?usp=sharing). 
 And the following command will give you the output attention from our model in `./plots`. 
 ```
 python train.py
@@ -115,5 +115,6 @@ Figure 5. Example output from our code. Left: input image, Middle: fixation poin
 </p>
 
 ## To-Do
-- Pretrained model parameters will be uploaded soon.
+- Pretrained model parameters will be uploaded soon (Done)
+- Training script will be added soon
 
